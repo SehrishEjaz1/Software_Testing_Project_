@@ -1,6 +1,6 @@
-# Software_Testing_Project_
-Web UI functional testing of a login workflow using Katalon Studio. Covers automated test design with EP, BVA, positive/negative cases, and data-driven testing.
 # Software Testing — Katalon Studio Project
+Web UI functional testing of a login workflow using Katalon Studio. Covers automated test design with EP, BVA, positive/negative cases, and data-driven testing.
+
 **Course:** Software Testing | FAST NUCES Lahore
 
 ## Overview
@@ -17,6 +17,12 @@ Tested on: [Katalon Demo App](https://katalon-demo-cura.herokuapp.com/)
 - **Fallback:** Selenium WebDriver
 - **Browsers:** Chrome, Edge
 - **CI/CD:** Jenkins, GitHub Actions
+
+## Tech Stack
+- Katalon Studio (Free Edition)
+- Selenium WebDriver
+- Chrome & Edge Browsers
+- Jenkins & GitHub Actions (CI/CD)
 
 ## Key Features Tested
 - Login workflow validation
